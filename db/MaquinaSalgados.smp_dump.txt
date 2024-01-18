@@ -1,0 +1,9 @@
+
+State Machine - |MaquinaSalgados|estado_atual
+Name estado_atual.Devolve estado_atual.LiberaSalgado estado_atual.EsperandoMoeda estado_atual.Estoque estado_atual.SelecaoSalgado estado_atual.Inicial 
+estado_atual.Inicial 0 0 0 0 0 0 
+estado_atual.SelecaoSalgado 0 0 0 0 1 1 
+estado_atual.Estoque 0 0 0 1 0 1 
+estado_atual.EsperandoMoeda 0 0 1 0 0 1 
+estado_atual.LiberaSalgado 0 1 0 0 0 1 
+estado_atual.Devolve 1 0 0 0 0 1 

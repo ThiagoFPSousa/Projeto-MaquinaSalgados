@@ -1,0 +1,85 @@
+m255
+K3
+13
+cModel Technology
+Z0 dC:\altera\13.0sp1\ProjetoCircuitos\simulation\qsim
+vMaquinaSalgados
+Z1 I77cEH`P27maAaTG^KL0>S3
+Z2 VLMOC;NcTezPWUHI7PY0SN0
+Z3 dD:\altera\13.0sp1\ProjetoCircuitos\simulation\qsim
+Z4 w1703021283
+Z5 8MaquinaSalgados.vo
+Z6 FMaquinaSalgados.vo
+L0 31
+Z7 OV;L;10.1d;51
+r1
+31
+Z8 !s90 -work|work|MaquinaSalgados.vo|
+Z9 o-work work -O0
+Z10 n@maquina@salgados
+!i10b 1
+Z11 !s100 J=`FARWdPF694B472bRXJ0
+!s85 0
+Z12 !s108 1703021284.437000
+Z13 !s107 MaquinaSalgados.vo|
+!s101 -O0
+vMaquinaSalgados_vlg_check_tst
+!i10b 1
+Z14 !s100 FS_b0k7W@fN;G`WL;aOgd3
+Z15 IoGa332ICTmD0O;oLV[2H;2
+Z16 VWn[5O1NhBW66YA4LGfWVG0
+R3
+Z17 w1703021281
+Z18 8MaquinaSalgados.vt
+Z19 FMaquinaSalgados.vt
+L0 75
+R7
+r1
+!s85 0
+31
+Z20 !s108 1703021285.164000
+Z21 !s107 MaquinaSalgados.vt|
+Z22 !s90 -work|work|MaquinaSalgados.vt|
+!s101 -O0
+R9
+Z23 n@maquina@salgados_vlg_check_tst
+vMaquinaSalgados_vlg_sample_tst
+!i10b 1
+Z24 !s100 bZYll;Mo`MZLK1n@D^H:93
+Z25 IHBm;d>35kD8GEgN=aTYD]2
+Z26 V_HL]j3:@6N1BmFR^ccNI?0
+R3
+R17
+R18
+R19
+L0 29
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z27 n@maquina@salgados_vlg_sample_tst
+vMaquinaSalgados_vlg_vec_tst
+!i10b 1
+Z28 !s100 Xc^HQhia?IcWSC`4j4IMM3
+Z29 I6L<AmCSJCcmQS@e=`h@1O3
+Z30 Ve@VIlT>JOz?1k_dn^S:P13
+R3
+R17
+R18
+R19
+Z31 L0 1790
+R7
+r1
+!s85 0
+31
+R20
+R21
+R22
+!s101 -O0
+R9
+Z32 n@maquina@salgados_vlg_vec_tst

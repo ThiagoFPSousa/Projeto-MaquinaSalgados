@@ -1,0 +1,13 @@
+library IEEE;
+use IEEE.STD_LOGIC_1164.all;
+
+entity MaquinaVendaSalgados is
+port (   
+
+		  
+	);
+end MaquinaVendaSalgados;
+
+architecture hardware of MaquinaVendaSalgados is
+	 begin
+end hardware;
